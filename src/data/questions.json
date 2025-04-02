@@ -1,502 +1,422 @@
 [
     {
         "id": 1,
-        "optionA": "When learning something new, I tend to collect different angles or viewpoints before I feel comfortable proceeding.",
-        "optionB": "When learning something new, I often prefer to see how it works in a straightforward example first."
+        "description": "Your manager proposes a creative workshop for a new project with almost no structure. They want your immediate reaction.",
+        "optionA": "You start mentally branching into various possible directions the workshop could take, discussing different angles that might emerge.",
+        "optionB": "You suggest a quick demo or real-time test of at least one idea to see if it sparks momentum for the group.",
+        "optionC": "You ask the team if they prefer at least some guidelines first, then proceed with a chosen format.",
+        "explanation": "Option A reflects a broader, exploratory mindset, often linked to ENTP’s tendency to juggle multiple conceptual possibilities. Option B reflects a hands-on engagement style, often linked to ESTP’s in-the-moment testing. Option C is more universal, focusing on obtaining group consensus.",
+        "functionsCompared": [
+            "Ne",
+            "Se"
+        ]
     },
     {
         "id": 2,
-        "optionA": "If I’m hosting a gathering, I usually have multiple ideas in mind and might switch plans spontaneously if something more interesting comes up.",
-        "optionB": "If I’m hosting a gathering, I settle on a clear plan so things can happen smoothly, even if it’s short notice."
+        "description": "You have an open afternoon and a friend calls, asking if you want to explore random new hobbies or do something spontaneously active.",
+        "optionA": "You brainstorm a list of quirky pursuits, each building on the last, excited by how they might connect to bigger ideas.",
+        "optionB": "You pick one or two physically engaging activities that sound fun right now, figuring you can shift gears if it gets dull.",
+        "optionC": "You tell your friend you’d prefer to pick something everyone can agree on before committing.",
+        "explanation": "Option A highlights generating multiple offbeat possibilities—commonly tied to ENTP’s love for varied, novel directions. Option B highlights direct, lively engagement—commonly tied to ESTP’s preference for active exploration in the moment. Option C stays neutral, focusing on group consensus rather than any single approach.",
+        "functionsCompared": [
+            "Ne",
+            "Se"
+        ]
     },
     {
         "id": 3,
-        "optionA": "I sometimes find it energizing to ask questions that push people beyond typical assumptions, even if it feels a bit provocative.",
-        "optionB": "I sometimes find it energizing to test people’s limits in a real situation, seeing how they respond under pressure."
+        "description": "A colleague brings up an unusual business idea. It’s highly theoretical, but you only have a few details. They ask how you’d move forward.",
+        "optionA": "You expand on the concept with additional what-ifs and imaginative twists, seeing how many alternative forms it might take.",
+        "optionB": "You propose testing a small part of it immediately to verify if it’s viable before exploring bigger ideas.",
+        "optionC": "You advise gathering more facts first, then deciding if it’s worth pursuing or not.",
+        "explanation": "Option A emphasizes branching conceptual exploration, typical of ENTP’s approach to brainstorming. Option B shows a preference for immediate trial or tangible action, typical of ESTP’s style. Option C is a neutral approach: gather data, then decide.",
+        "functionsCompared": [
+            "Ne",
+            "Se"
+        ]
     },
     {
         "id": 4,
-        "optionA": "When I pick a new hobby, the unique or unusual aspect of it is more appealing than how easily I can just start doing it.",
-        "optionB": "When I pick a new hobby, I like something I can dive into right away, without too much fuss."
+        "description": "You’re at a networking event full of unfamiliar faces, and someone suggests a group activity to spark conversation.",
+        "optionA": "You volunteer a creative, slightly offbeat group exercise that might spark fresh discussions from different angles.",
+        "optionB": "You suggest a straightforward, interactive game that gets everyone moving and talking right away.",
+        "optionC": "You offer to take a quick vote on which activity the group feels most comfortable with.",
+        "explanation": "Option A highlights an interest in unusual or unstructured ideas—often an ENTP trait. Option B highlights an immediate, hands-on approach—often an ESTP trait. Option C is neutral, focusing on quick group alignment without strongly favoring creative or practical angles.",
+        "functionsCompared": [
+            "Ne",
+            "Se"
+        ]
     },
     {
         "id": 5,
-        "optionA": "If I join a project, I often float multiple possibilities or hypothetical improvements—even if they might not be used immediately.",
-        "optionB": "If I join a project, I like working with whatever is already at hand and making quick progress on immediate goals."
+        "description": "You’re in charge of introducing a brand-new concept to your team, but time is limited. The concept is flexible yet untested.",
+        "optionA": "You pitch several future scenarios of how this concept might evolve, encouraging the team to imagine wider possibilities.",
+        "optionB": "You set up a brief, direct test or demonstration to see if it works in practice, letting the team observe its immediate impact.",
+        "optionC": "You suggest splitting the presentation into a basic overview plus a brief Q&A so everyone’s comfortable first.",
+        "explanation": "Option A underlines a forward-looking, idea-expansion approach—often ENTP. Option B underlines direct action and real-time experimentation—often ESTP. Option C is neutral, focusing on building a comfortable baseline before any major leaps or demos.",
+        "functionsCompared": [
+            "Ne",
+            "Se"
+        ]
     },
     {
         "id": 6,
-        "optionA": "Sometimes, I get a bit bored if I don’t have a chance to explore interesting twists or pivot the discussion in new directions.",
-        "optionB": "Sometimes, I get a bit bored if we spend too long talking without actually testing or doing something."
+        "description": "You’re trying to pick between two job offers. One fits the past experiences you’ve had, while the other speaks to a more intangible future you sense might unfold.",
+        "optionA": "You review your previous experiences in detail, ensuring the new role aligns with what you already know works for you.",
+        "optionB": "You rely on an internal sense that one role better matches your big-picture direction, even if past data doesn’t fully confirm it.",
+        "optionC": "You compare salary, location, and immediate pros and cons for each, choosing whichever has fewer downsides.",
+        "explanation": "Option A reflects leaning on stored knowledge or experiences, reminiscent of an inferior or less-natural function for ENTP but still pointing to verifying known data (Si). Option B reflects trusting a deeper, singular sense of where this might lead, reminiscent of inferior Ni for ESTP. Option C is neutral, focusing on a straightforward list of pros/cons.",
+        "functionsCompared": [
+            "Ni",
+            "Si"
+        ]
     },
     {
         "id": 7,
-        "optionA": "I prefer to gather insights from various fields or references before forming a conclusion.",
-        "optionB": "I prefer to jump into a smaller scope and refine my approach as I go."
+        "description": "A friend is unsure whether to continue a tradition they followed for years. They’re torn between trusting familiar routines or pursuing an unclear but promising direction.",
+        "optionA": "You encourage verifying the comfort of a known routine before discarding it, possibly referencing past outcomes and examples.",
+        "optionB": "You suggest leaning into the hunch that something new is on the horizon, even if it overrides past habits.",
+        "optionC": "You propose a middle ground: keep part of the tradition while experimenting with a small new element.",
+        "explanation": "Option A aligns with verifying experiences from the past (Si), which ENTP might do when under pressure to confirm known elements. Option B aligns with trusting an inarticulate but guiding sense of the future (Ni), typical of an ESTP when the obvious data isn’t conclusive. Option C is a compromise, neither purely past-based nor purely future-intuitive.",
+        "functionsCompared": [
+            "Ni",
+            "Si"
+        ]
     },
     {
         "id": 8,
-        "optionA": "In conversation, I might toss out an unexpected idea, even if it feels far from the current topic.",
-        "optionB": "In conversation, I often bring examples from real incidents I’ve seen or been part of."
+        "description": "In planning a personal project, you can follow a tried-and-tested formula or attempt a path that feels right but isn’t yet fully rationalized.",
+        "optionA": "You consider what’s worked before in comparable situations, double-checking whether the logic still holds before you proceed.",
+        "optionB": "You decide based on a deeper sense that the new path fits your overall direction, even if you can’t articulate every detail.",
+        "optionC": "You consult with peers or experts to see which path has fewer unknowns, then pick accordingly.",
+        "explanation": "Option A emphasizes reviewing familiar references or past logic (Si perspective) while still applying analysis. Option B highlights following a bigger, possibly unspoken sense of direction (Ni perspective). Option C is neutral: gather some practical input from others to reduce uncertainty.",
+        "functionsCompared": [
+            "Ni",
+            "Si"
+        ]
     },
     {
         "id": 9,
-        "optionA": "When something puzzles me, I’m inclined to dissect it from multiple perspectives until it clicks in my mind.",
-        "optionB": "When something puzzles me, I prefer to try out a solution method to see if it clears things up."
+        "description": "You’re writing a personal reflection. Part of you wants to rely on old journals for clarity, but you also have a strong gut feeling about how you’ve evolved.",
+        "optionA": "You skim through past entries or notes, making sure your reflection aligns with documented memories and experiences.",
+        "optionB": "You write from an instinctive place about where you believe you’re headed, trusting that sense over literal archives.",
+        "optionC": "You decide to jot down bullet points from both memory and your current perspective, leaving it open-ended.",
+        "explanation": "Option A draws on stored references (Si), typical of an ENTP verifying personal data when reflecting. Option B uses a more singular, forward sense (Ni), typical of an ESTP’s deeper intuitive direction. Option C merges the two, a neutral approach bridging memory and current intuition.",
+        "functionsCompared": [
+            "Ni",
+            "Si"
+        ]
     },
     {
         "id": 10,
-        "optionA": "I can switch interests rapidly if a fresh idea catches my attention—even if it’s unrelated.",
-        "optionB": "I can switch strategies rapidly if a direct opportunity or constraint shows up—even if it disrupts the plan."
+        "description": "Your coworker proposes a new method that conflicts with the established procedures at your workplace, but could shape a fresh path forward.",
+        "optionA": "You re-check old records or how prior changes worked, ensuring you’re not discarding practical lessons. If it seems consistent, you then adapt the new method.",
+        "optionB": "You sense this direction might define the future of the workplace, so you lean on that vision, seeing the established procedure as less crucial now.",
+        "optionC": "You consult with the team to see which approach the majority is comfortable trialing first.",
+        "explanation": "Option A channels referencing older procedures or data (Si) before adopting new ideas. Option B emphasizes an internal sense of future direction (Ni). Option C is neutral, letting the group collectively decide based on comfort and consensus.",
+        "functionsCompared": [
+            "Ni",
+            "Si"
+        ]
     },
     {
         "id": 11,
-        "optionA": "I tend to appreciate clever, unconventional approaches—even if they’re a bit impractical.",
-        "optionB": "I tend to appreciate straightforward, tried-and-true approaches—even if they lack some flair."
+        "description": "You notice you’re sometimes ignoring physical or daily upkeep in favor of big leaps or conceptual exploration. It’s starting to cause small issues in your routine.",
+        "optionA": "You realize you get lost in brainstorming and logic, forgetting to manage immediate real-world details until it’s too late.",
+        "optionB": "You realize you tend to jump into action, but you overlook the personal maintenance or consistent follow-ups that keep things steady.",
+        "optionC": "You decide to schedule small reminders or tasks to keep a better balance, so you neither neglect the big ideas nor your environment.",
+        "explanation": "Both ENTP and ESTP can struggle with certain routine aspects (shadow functions). For ENTP, ignoring tangible details can be linked to a shadow or demon sense of immediate engagement. For ESTP, ignoring consistent upkeep can be linked to overshadowed internal referencing or structure. Option C is a universal fix: set up better reminders.",
+        "functionsCompared": [
+            "Shadow Se",
+            "Shadow Si"
+        ]
     },
     {
         "id": 12,
-        "optionA": "When I plan a trip or vacation, I love exploring a wide array of possible activities, even if it’s not all feasible.",
-        "optionB": "When I plan a trip or vacation, I prefer locking in the key details and adapting once I’m on the ground."
+        "description": "Close friends say you dismiss personal values too quickly, focusing more on ideas or actions than deeper emotional considerations.",
+        "optionA": "You admit you get carried away exploring novel angles or logical breakdowns, rarely checking if it aligns with core personal feelings.",
+        "optionB": "You admit you get absorbed in hands-on tasks and quick moves, forgetting to pause for personal emotional alignment.",
+        "optionC": "You promise to devote a moment each day for self-reflection on what truly matters to you, regardless of approach.",
+        "explanation": "Both ENTP and ESTP often have difficulty maintaining a steady sense of personal value alignment (shadow Fi). A leans more on mental exploration overshadowing personal values, B leans more on direct action overshadowing personal feelings. C offers a universal remedy—deliberate self-reflection.",
+        "functionsCompared": [
+            "Shadow Se",
+            "Shadow Si"
+        ]
     },
     {
         "id": 13,
-        "optionA": "If I encounter an obstacle, I often pause to rethink the bigger picture or reframe the situation.",
-        "optionB": "If I encounter an obstacle, I usually look for a direct workaround and keep going."
+        "description": "You’re critiqued for refusing structured methods that might streamline your work. Apparently, you either experiment too widely or act too spontaneously instead of following a known system.",
+        "optionA": "You feel that strict, external frameworks limit your expansive idea generation. You’ll dabble in them only if they don’t restrict innovative thinking.",
+        "optionB": "You feel that strict, external frameworks slow you down in real-time. You’ll use them only if they deliver immediate practical gains.",
+        "optionC": "You propose adapting a known system into a flexible template, meeting in the middle between structure and freedom.",
+        "explanation": "Both ENTP and ESTP can push back on structured systems (shadow Te). ENTP sees them as stifling broad exploration, while ESTP sees them as hindering direct real-time action. The neutral approach is customizing a system for partial flexibility.",
+        "functionsCompared": [
+            "Shadow Se",
+            "Shadow Si"
+        ]
     },
     {
         "id": 14,
-        "optionA": "I’m comfortable theorizing possibilities that might sound unconventional or untested.",
-        "optionB": "I’m comfortable dealing with challenges that pop up in the moment, making quick calls to move ahead."
+        "description": "When criticized for last-minute chaos, you realize you either over-committed to exploring new angles or jumped into too many immediate tasks at once.",
+        "optionA": "You tend to spin off new variations until time runs out, overlooking necessary planning in the physical realm.",
+        "optionB": "You tend to juggle multiple instant opportunities, losing track of consistent follow-through or background tasks.",
+        "optionC": "You start keeping a simple checklist so you balance fresh ideas and tangible tasks more evenly.",
+        "explanation": "Both A and B reflect overshadowed routine maintenance (shadow details). ENTP’s demon can be ignoring real-world follow-through (Se), while ESTP’s demon can be ignoring systematic consistency (Si). The neutral approach (C) is a basic organizational tool bridging either gap.",
+        "functionsCompared": [
+            "Shadow Se",
+            "Shadow Si"
+        ]
     },
     {
         "id": 15,
-        "optionA": "It’s fun for me to brainstorm radically different angles, even if most of them won’t pan out.",
-        "optionB": "It’s fun for me to troubleshoot things in real time and see the immediate difference it makes."
+        "description": "People say you should slow down and make sure you’re referencing crucial data or maintaining stable routines, but you’re often too busy with bigger leaps or immediate involvement.",
+        "optionA": "You accept that in chasing fresh concepts, you skip routine details, only referencing them occasionally if logic demands it.",
+        "optionB": "You accept that in focusing on direct engagement, you skip verifying older data, only checking it if a hunch insists you must.",
+        "optionC": "You agree to set aside specific time each week to go over important data or routines systematically, so they’re not missed.",
+        "explanation": "ENTP overshadowing real-world upkeep can link to ignoring consistent tangible structure (shadow Se). ESTP overshadowing prior references or stable patterns can link to ignoring consistent recall (shadow Si). The neutral approach is scheduling a block to handle these tasks proactively.",
+        "functionsCompared": [
+            "Shadow Se",
+            "Shadow Si"
+        ]
     },
     {
         "id": 16,
-        "optionA": "When I see a new trend or tool, I’m often curious how it might evolve or connect to other developments.",
-        "optionB": "When I see a new trend or tool, I like to see if it solves any immediate need or if I can implement it right away."
+        "description": "You’re rethinking your exercise habits after realizing you either rarely keep track of physical well-being or disregard consistent health routines.",
+        "optionA": "You notice you often occupy your mind with expanding ideas, forgetting a structured bodily regimen until something forces you to pay attention.",
+        "optionB": "You notice you jump into physically engaging activities spontaneously, but rarely maintain a schedule, ignoring small injuries or repeated issues.",
+        "optionC": "You decide on a moderate fitness plan with some variety and some structure, hoping to avoid extremes.",
+        "explanation": "Option A suggests skipping consistent bodily engagement (shadow Se) because you’re mentally busy. Option B suggests frequent physical spontaneity but ignoring repeated upkeep or long-term patterns (shadow Si). The neutral path is a balanced fitness approach. Both reflect shadow pitfalls for ENTP and ESTP in different ways.",
+        "functionsCompared": [
+            "Shadow Se",
+            "Shadow Si"
+        ]
     },
     {
         "id": 17,
-        "optionA": "I sometimes propose solutions that involve reimagining entire systems or processes.",
-        "optionB": "I sometimes propose solutions that adapt the current system with minimal friction."
+        "description": "A coworker asks how you handle personal reflection after each project. They’re curious if you rely on immediate feedback or old logs you keep.",
+        "optionA": "You reference scattered notes from before, verifying whether your logic still stands. Sometimes these details are incomplete, but you try to piece them together.",
+        "optionB": "You rely on a deeper sense of what worked and what didn’t, trusting that if something truly matters, it resonates in your gut now.",
+        "optionC": "You do a short survey of relevant people, capturing external feedback in a more objective manner.",
+        "explanation": "Option A leans on stored references (Si-like approach). Option B leans on an inward sense of correctness or future direction (Ni-like approach). Option C is a universal step: gathering external input that neither side strongly claims as a preference.",
+        "functionsCompared": [
+            "Ni",
+            "Si"
+        ]
     },
     {
         "id": 18,
-        "optionA": "It fascinates me to understand underlying principles, even if they don’t have an obvious day-to-day use.",
-        "optionB": "It fascinates me to discover how certain things can be used effectively in everyday settings."
+        "description": "You have two mentors giving advice. One points to proven records or old examples. The other says to go with your internal vision for the long term.",
+        "optionA": "You find yourself swayed by the detailed references, feeling safer if you confirm an approach has worked before.",
+        "optionB": "You’re more drawn to trusting that bigger vision, even if the records don’t fully support it yet.",
+        "optionC": "You decide to test a bit of both approaches, letting results guide the final call.",
+        "explanation": "Option A suggests verifying older, proven details (Si) even if it’s not guaranteed. Option B suggests relying on a deeper sense of future direction (Ni). Option C merges them, an experimental or balanced stance without strongly favoring past or future orientation.",
+        "functionsCompared": [
+            "Ni",
+            "Si"
+        ]
     },
     {
         "id": 19,
-        "optionA": "I get restless if a conversation sticks to commonplace ideas too long; I like exploring uncharted territory.",
-        "optionB": "I get restless if a conversation is all speculation; I want to see something actionable emerge."
+        "description": "During a heated debate, you realize your approach either stems from a broad mental expansion or a real-time push. People say you’re ignoring details or continuity.",
+        "optionA": "You see that you leap among multiple angles, rarely anchoring your ideas in the immediate tangible realm—leading to confusion.",
+        "optionB": "You see that you jump into quick actions or statements, rarely maintaining a stable thread of continuity—leading to disorganization.",
+        "optionC": "You decide to structure the debate with a simple outline, helping everyone track the discussion better.",
+        "explanation": "Both A and B highlight neglected routine or consistency (shadow Se for ENTP, shadow Si for ESTP). A is lost in expansion, ignoring real-world stepping stones, B is lost in immediate impetus, ignoring the stable framework. Option C is universal, imposing a straightforward outline to keep focus.",
+        "functionsCompared": [
+            "Shadow Se",
+            "Shadow Si"
+        ]
     },
     {
         "id": 20,
-        "optionA": "Even if it’s not guaranteed, I’m drawn to discussions about what might be possible down the line.",
-        "optionB": "Even if it’s modest, I like having a visible payoff to confirm we’re on the right track."
+        "description": "Friends notice when under stress, you either double down on intangible brainstorming or keep physically busy. Both lead to missing small but critical details.",
+        "optionA": "In high-stress, you mentally escape into new angles or theoretical leaps, losing track of immediate constraints until they become a crisis.",
+        "optionB": "In high-stress, you stay constantly on the move or taking quick actions, overlooking established references or repeated mistakes.",
+        "optionC": "You now plan to designate a reliable friend or tool to remind you when key practical details are slipping.",
+        "explanation": "In stress, ENTP may overdo mental possibilities, ignoring direct tangible oversight (shadow Se). ESTP may overdo active engagement, ignoring stable references or patterns (shadow Si). Option C is a universal safeguard—having someone or something external prompt you about neglected details.",
+        "functionsCompared": [
+            "Shadow Se",
+            "Shadow Si"
+        ]
     },
     {
         "id": 21,
-        "optionA": "When I give feedback, I might spin off multiple ways a person could improve or expand their approach.",
-        "optionB": "When I give feedback, I tend to highlight what can be changed or fixed right now."
+        "description": "You’re trying to finalize a big decision. Suddenly, you find yourself latching onto one deep outcome, ignoring alternate paths, or you start spinning off random tangents that feel unrelated.",
+        "optionA": "You notice you’ve become fixated on a single possible future or interpretation, losing the usual flexibility you rely on.",
+        "optionB": "You realize you’ve begun brainstorming tangential ideas that aren’t clearly tied to real action, generating confusion rather than clarity.",
+        "optionC": "You take a step back, writing down pros and cons for each realistic path, ensuring neither hyper-focus nor scattered tangents dominate.",
+        "explanation": "Option A can reveal ENTP under stress overusing shadow Ni—latching rigidly onto one scenario. Option B can reveal ESTP under stress overusing shadow Ne—spinning out ungrounded tangents. Option C is a structured approach preventing both extremes.",
+        "functionsCompared": [
+            "Shadow Ni",
+            "Shadow Ne"
+        ]
     },
     {
         "id": 22,
-        "optionA": "I sometimes dive into topics purely because they spark my curiosity, regardless of immediate usefulness.",
-        "optionB": "I sometimes dive into topics if I see a clear benefit or application in my current situation."
+        "description": "You’ve been told you either get stuck in one intangible prediction or barrage everyone with half-baked possibilities, blocking practical progress.",
+        "optionA": "You slip into a stubborn singular vision, insisting it’s correct and resisting any fresh data that contradicts it.",
+        "optionB": "You toss out multiple side ideas, but each is fuzzy, lacking a coherent plan or real connection to the core problem.",
+        "optionC": "You decide to ground each proposed direction in at least one factual checkpoint before fully committing or discarding it.",
+        "explanation": "Option A reflects ENTP’s shadow Ni: locking onto one intangible future, ignoring normal breadth. Option B reflects ESTP’s shadow Ne: throwing out scattered, speculative ideas outside their usual direct style. Option C sets a factual anchor, balancing extremes.",
+        "functionsCompared": [
+            "Shadow Ni",
+            "Shadow Ne"
+        ]
     },
     {
         "id": 23,
-        "optionA": "I enjoy a good debate that tests assumptions—even if it doesn’t lead to a final conclusion.",
-        "optionB": "I enjoy a good debate if it helps us reach a decision or settle a practical dispute."
+        "description": "Under pressure, you notice your thinking either hyper-focuses on a singular hypothetical or drifts into random expansions with no clear end.",
+        "optionA": "You realize you’re stubbornly following one ‘deep’ path, yet you’re oddly reluctant to consider alternative routes.",
+        "optionB": "You notice you’re brainstorming multiple tangential ideas, but they’re not leading you to real solutions or decisive actions.",
+        "optionC": "You designate a brief time to explore each idea logically, discarding the unworkable ones so you can refocus.",
+        "explanation": "Option A highlights ENTP’s Ni shadow: single-track fixation instead of normal broad exploration. Option B highlights ESTP’s Ne shadow: aimless expansions that don’t translate into concrete steps. Option C is a practical compromise, letting some exploration happen but within logical constraints.",
+        "functionsCompared": [
+            "Shadow Ni",
+            "Shadow Ne"
+        ]
     },
     {
         "id": 24,
-        "optionA": "It’s typical for me to juggle multiple ideas at once, letting them develop in parallel.",
-        "optionB": "It’s typical for me to handle each issue as it comes, moving through them in a more sequential manner."
+        "description": "A teammate says you either dismiss all but one vague vision of the future or keep generating new angles the team can’t keep up with. Both cause friction.",
+        "optionA": "You latch onto a specific ‘future scenario’ you can’t quite prove but cling to, brushing off your typical openness to alternatives.",
+        "optionB": "You throw out additional concepts without linking them to real timelines or resources, overwhelming the team with untested brainstorms.",
+        "optionC": "You choose one or two concepts and outline a small test plan, ensuring the team can follow a clear path without shutting down exploration entirely.",
+        "explanation": "Option A reflects ENTP leaning on shadow Ni, fixating on a single intangible future. Option B reflects ESTP leaning on shadow Ne, producing scattered ideas that lack their usual real-time grounding. Option C merges focus with limited brainstorming, preventing overload.",
+        "functionsCompared": [
+            "Shadow Ni",
+            "Shadow Ne"
+        ]
     },
     {
         "id": 25,
-        "optionA": "I sometimes propose changes just to see if something more interesting might result.",
-        "optionB": "I usually propose changes if I see an immediate reason to do so—like fixing a specific concern."
+        "description": "You’re preparing a strategic plan. Either you can’t let go of one intangible projection, ignoring actual adjustments, or you keep adding random expansions that derail a straightforward process.",
+        "optionA": "You push a single conceptual outcome, resisting any pivot based on new input, and you can’t explain why it must be so, just that it ‘feels’ right.",
+        "optionB": "You expand the plan in multiple half-formed directions, struggling to focus on any practical steps, losing your usual direct approach.",
+        "optionC": "You propose a structured timeline, allowing periodic reviews for new ideas or changes without letting one intangible or many tangents take over.",
+        "explanation": "Option A exemplifies ENTP’s shadow Ni: an uncharacteristically rigid, singular future orientation. Option B exemplifies ESTP’s shadow Ne: a flood of speculative ideas lacking concrete grounding. Option C creates a middle path, mixing some adaptability with clear structure.",
+        "functionsCompared": [
+            "Shadow Ni",
+            "Shadow Ne"
+        ]
     },
-    {
-        "id": 26,
-        "optionA": "When learning about an unfamiliar subject, I might explore tangentially related topics to broaden my perspective.",
-        "optionB": "When learning about an unfamiliar subject, I focus on the core information I need to accomplish something with it."
+        {
+            "id": 26,
+        "description": "You’re organizing a casual get-together. Some suggest turning it into a quirky brainstorming party, others want active games. Time is limited.",
+        "optionA": "You throw out multiple eccentric themes or conversation prompts, excited by how random ideas might interconnect.",
+        "optionB": "You propose an immediate, active game plan so everyone can jump in without overthinking details.",
+        "optionC": "You poll the group for a quick majority vote on which style they prefer before finalizing anything.",
+        "explanation": "Option A leans toward a spontaneous generation of concepts (ENTP). Option B leans toward an immediate, engaging activity (ESTP). Option C is neutral, letting the group decide collectively.",
+        "functionsCompared": [
+            "Ne",
+            "Se"
+        ]
     },
     {
         "id": 27,
-        "optionA": "In groups, I’m often the one tossing out a less obvious route or alternative approach.",
-        "optionB": "In groups, I’m often the one who cuts to the chase, checking if we can address a certain point promptly."
+        "description": "You’re asked to help brainstorm a new marketing angle. The product is basic, but the approach could be wild or straightforward.",
+        "optionA": "You propose a range of outside-the-box campaigns, linking each to potential spin-offs if they gain traction.",
+        "optionB": "You pick a bold, direct tactic to test right now, wanting to see immediate feedback from a sample audience.",
+        "optionC": "You advise forming a small focus group to choose which idea seems most viable without going too extreme.",
+        "explanation": "Option A showcases expansive, idea-focused thinking (ENTP). Option B favors tangible, direct testing (ESTP). Option C remains neutral by focusing on group consensus around viability.",
+        "functionsCompared": [
+            "Ne",
+            "Se"
+        ]
     },
     {
         "id": 28,
-        "optionA": "I like the thrill of conceptual breakthroughs—when someone mentions a novel angle I hadn’t considered.",
-        "optionB": "I like the thrill of seeing direct progress—when something actually gets fixed or improved in a tangible way."
+        "description": "A friend challenges you to invent a fun, last-minute workshop for a local community. They ask how you’d spark creativity fast.",
+        "optionA": "You’d spontaneously generate intriguing themes or random prompts, confident something novel will emerge from the mix.",
+        "optionB": "You’d demonstrate a hands-on activity right away, letting people follow your lead and adapt it on the spot.",
+        "optionC": "You’d first ask the participants which approach they feel most comfortable experimenting with, then finalize it.",
+        "explanation": "Option A thrives on open-ended idea expansion (ENTP). Option B uses a hands-on start (ESTP). Option C stays neutral, driven by participant input before deciding.",
+        "functionsCompared": [
+            "Ne",
+            "Se"
+        ]
     },
     {
         "id": 29,
-        "optionA": "I find it natural to wonder about how existing methods could be overhauled for something entirely new.",
-        "optionB": "I find it natural to try small tweaks to existing methods rather than completely reinvent them."
+        "description": "You have a choice: refine something you know works from past experience, or trust a vague feeling that a new method is better.",
+        "optionA": "You rely on your documented successes, logically verifying they still apply. If consistent, you see no reason to abandon them yet.",
+        "optionB": "You feel strongly that a new direction aligns with a bigger picture you sense, even though evidence is thin.",
+        "optionC": "You combine a bit of the old approach with a trial phase for the new method, to see which yields better results.",
+        "explanation": "Option A references prior knowledge or experience (Si-like). Option B aligns with an internal sense of future direction (Ni-like). Option C merges both for a balanced approach.",
+        "functionsCompared": [
+            "Ni",
+            "Si"
+        ]
     },
     {
         "id": 30,
-        "optionA": "I can handle uncertainty quite well, as I see it as room to explore untapped directions.",
-        "optionB": "I can handle uncertainty by taking immediate actions or tests that narrow down the unknowns quickly."
+        "description": "You’re reevaluating personal habits. Some are deeply familiar, but you sense you might need a new path to reach bigger goals.",
+        "optionA": "You systematically check if your old routines are still valid, referencing how well they served you before making changes.",
+        "optionB": "You rely on a hunch that your long-term vision no longer aligns with these old routines, so you shift now.",
+        "optionC": "You draw up a pros and cons list, then adopt whichever option gets majority benefits or fewer drawbacks.",
+        "explanation": "Option A focuses on verifying the old routine via stored references (Si). Option B focuses on intangible alignment with future direction (Ni). Option C remains neutral, using a practical pros-cons method.",
+        "functionsCompared": [
+            "Ni",
+            "Si"
+        ]
     },
     {
         "id": 31,
-        "optionA": "I like generating fresh ideas even if they don’t match typical expectations.",
-        "optionB": "I like seizing opportunities even if the plan wasn’t fully formed beforehand."
+        "description": "A mentor tells you to either build on proven research or follow your inner intuition for an experimental project. You have to decide the base method quickly.",
+        "optionA": "You check past documented successes carefully, confident that building on them is safer and more rational.",
+        "optionB": "You trust your deeper sense that a unique angle could evolve something groundbreaking, even if it lacks historical backing.",
+        "optionC": "You propose a short pilot: half the project uses proven research, half follows your hunch, to see which yields better data.",
+        "explanation": "Option A prioritizes known references or data (Si), typical of ENTP’s lesser-used but present detail-checking under certain conditions. Option B prioritizes a bigger internal sense (Ni), typical of an ESTP’s intangible future orientation. Option C is a balanced approach with minimal risk.",
+        "functionsCompared": [
+            "Ni",
+            "Si"
+        ]
     },
     {
         "id": 32,
-        "optionA": "I enjoy drafting a detailed outline or roadmap that might evolve further as new information arises.",
-        "optionB": "I enjoy tackling a challenge directly and refining my strategy as I face real hurdles."
+        "description": "You’re renovating a room but keep forgetting either immediate practical needs or the consistent steps to ensure a smooth process.",
+        "optionA": "You find you get so caught up in rethinking the layout or design angles that you forget basic on-site tasks until they pile up.",
+        "optionB": "You find you jump on spontaneous improvement tasks, missing the continuity or sequence that prevents repeated work or confusion.",
+        "optionC": "You decide to outline a simple step-by-step approach, balancing both creativity and consistency.",
+        "explanation": "Option A suggests overshadowed real-world engagement (shadow Se) from too much conceptual expansion. Option B suggests overshadowed methodical recall (shadow Si) from too many spontaneous leaps. Option C imposes a simple structure to manage both sides.",
+        "functionsCompared": [
+            "Shadow Se",
+            "Shadow Si"
+        ]
     },
     {
         "id": 33,
-        "optionA": "I’m sometimes drawn to subtle or complex puzzles that require a good deal of mental exploration.",
-        "optionB": "I’m sometimes drawn to active or fast-moving tasks that let me see immediate outcomes."
+        "description": "Under stress, you either keep thinking of new angles without physically acting, or you rush into action ignoring any structure. People are concerned about your well-being.",
+        "optionA": "You retreat into generating yet more possibilities or mental solutions, barely tracking tangible tasks until crisis hits.",
+        "optionB": "You scramble with on-the-spot attempts, ignoring a stable plan or repeating small mistakes due to lack of reference.",
+        "optionC": "You create a quick checklist that ensures you either act on or discard ideas, preventing endless loops or aimless busyness.",
+        "explanation": "ENTP under stress may overuse mental expansions, neglecting immediate realities (shadow Se). ESTP under stress may overuse direct actions, neglecting stable references (shadow Si). The neutral approach is bridging both extremes with basic organization.",
+        "functionsCompared": [
+            "Shadow Se",
+            "Shadow Si"
+        ]
     },
     {
         "id": 34,
-        "optionA": "When giving instructions, I might provide an overview, plus alternate ways to achieve the same result.",
-        "optionB": "When giving instructions, I usually offer the most direct path to completion, step by step."
+        "description": "You’re told you either skip routine details while you chase big insights or keep busy physically but never revisit the bigger framework. It’s affecting your output quality.",
+        "optionA": "You realize you can deep-dive into brainstorming or theoretical expansions, losing track of needed real-world steps or supplies.",
+        "optionB": "You realize you tackle immediate tasks rapidly, but rarely cross-check them against a consistent process or reference.",
+        "optionC": "You accept that a basic process log or checklist might maintain both big insights and daily tasks without mutual interference.",
+        "explanation": "ENTP might overextend mental efforts ignoring ground-level tasks (shadow Se). ESTP might keep physically busy ignoring the continuity or referencing a standard plan (shadow Si). A universal solution is a minimal process log to keep them integrated.",
+        "functionsCompared": [
+            "Shadow Se",
+            "Shadow Si"
+        ]
     },
     {
         "id": 35,
-        "optionA": "If a standard practice feels outdated, I’m the one who might question its very foundations.",
-        "optionB": "If a standard practice feels outdated, I’m the one who tries a new spin on it to see if it still works well enough."
-    },
-    {
-        "id": 36,
-        "optionA": "I can see potential in ideas that others might dismiss as too unconventional or ‘out there.’",
-        "optionB": "I can see angles in real events or data that others might miss because they’re too focused on theory."
-    },
-    {
-        "id": 37,
-        "optionA": "I sometimes push the conversation into territory where few have gone, just to see what might surface.",
-        "optionB": "I sometimes direct the conversation toward concrete next steps so we can walk away with a plan."
-    },
-    {
-        "id": 38,
-        "optionA": "I’m more enthused by discovering new frameworks than refining old ones.",
-        "optionB": "I’m more enthused by optimizing current methods than brainstorming untested options."
-    },
-    {
-        "id": 39,
-        "optionA": "I enjoy a lively dialogue that questions fundamental assumptions, even if it’s a bit abstract.",
-        "optionB": "I enjoy a lively dialogue that clarifies specifics, even if it’s less about exploring big hypotheticals."
-    },
-    {
-        "id": 40,
-        "optionA": "If I watch a documentary, I might be drawn to something highly explorative or speculative in nature.",
-        "optionB": "If I watch a documentary, I might be drawn to something that shows tangible events or hands-on experiences."
-    },
-    {
-        "id": 41,
-        "optionA": "When planning a project, I often start by brainstorming multiple outcomes before choosing my path.",
-        "optionB": "When planning a project, I often start by testing one approach to see if it’s viable, then adjust."
-    },
-    {
-        "id": 42,
-        "optionA": "I can easily connect topics that seem unrelated, finding surprising links between them.",
-        "optionB": "I can easily notice immediate factors that matter and focus on dealing with them directly."
-    },
-    {
-        "id": 43,
-        "optionA": "I don’t mind pivoting drastically if a conversation or plan sparks a more exciting possibility.",
-        "optionB": "I don’t mind switching tactics if the current situation calls for it, especially under tight time pressure."
-    },
-    {
-        "id": 44,
-        "optionA": "I like the challenge of imagining a new system from scratch rather than tweaking an existing design.",
-        "optionB": "I like the challenge of improving a system by finding little upgrades that make a big difference."
-    },
-    {
-        "id": 45,
-        "optionA": "Sometimes I just want to see how wild or inventive an idea can be, even if it’s a long shot.",
-        "optionB": "Sometimes I just want to find a fast fix or hack that gets me closer to where I want to be."
-    },
-    {
-        "id": 46,
-        "optionA": "If I disagree with a process, I might propose a bold alternative that challenges typical thinking.",
-        "optionB": "If I disagree with a process, I might propose a direct improvement that most can agree on quickly."
-    },
-    {
-        "id": 47,
-        "optionA": "I frequently look at broader patterns or trends, getting a sense of how things might shift or connect.",
-        "optionB": "I frequently spot immediate factors or clues in my surroundings, using them to my advantage."
-    },
-    {
-        "id": 48,
-        "optionA": "I like to keep possibilities open, exploring multiple directions in parallel if possible.",
-        "optionB": "I like to address one major direction and make progress, even if that means locking it in for a while."
-    },
-    {
-        "id": 49,
-        "optionA": "I feel energized by conversations that revolve around big-picture implications or new frontiers.",
-        "optionB": "I feel energized by scenarios where quick decisions or immediate problem-solving is key."
-    },
-    {
-        "id": 50,
-        "optionA": "I sometimes pitch unorthodox ideas just to see if it sparks a better conversation or a fresh insight.",
-        "optionB": "I sometimes jump into hands-on experiments just to see if something works right away."
-    },
-    {
-        "id": 51,
-        "optionA": "If a routine approach is working okay, I still might ask, ‘Can we take this further?’",
-        "optionB": "If a routine approach is working okay, I’d typically keep it until we see evidence it’s not enough."
-    },
-    {
-        "id": 52,
-        "optionA": "I gravitate toward creative brainstorming, even if it means exploring numerous tangents.",
-        "optionB": "I gravitate toward a straightforward discussion that moves us closer to a plan of action."
-    },
-    {
-        "id": 53,
-        "optionA": "I sometimes get so engrossed in potential angles, I forget to finalize decisions promptly.",
-        "optionB": "I sometimes move so quickly on decisions, I might skip deeper exploration of alternatives."
-    },
-    {
-        "id": 54,
-        "optionA": "I’m drawn to exploring how different theories or approaches might interrelate in unexpected ways.",
-        "optionB": "I’m drawn to seeing how quickly I can get a particular method to work once I commit to it."
-    },
-    {
-        "id": 55,
-        "optionA": "If I encounter an intriguing concept, I dive in just for the mental stimulation it provides.",
-        "optionB": "If I encounter an intriguing method, I test it out right away to see if it’s effective."
-    },
-    {
-        "id": 56,
-        "optionA": "In a strategy game, I’m the type to plan for multiple contingencies and shift rapidly if a new angle seems promising.",
-        "optionB": "In a strategy game, I’m the type to look for immediate exploits or direct tactics to gain an upper hand."
-    },
-    {
-        "id": 57,
-        "optionA": "When reading about a subject, I like to explore tangential topics that might be loosely related.",
-        "optionB": "When reading about a subject, I prefer to hone in on the specific details or data most relevant to my goal."
-    },
-    {
-        "id": 58,
-        "optionA": "If a debate arises, I enjoy pushing the boundaries of the argument, even if it feels philosophical.",
-        "optionB": "If a debate arises, I look for points that can be clearly demonstrated or proven right away."
-    },
-    {
-        "id": 59,
-        "optionA": "I like to question traditions or norms to see if there’s a fresh way nobody has attempted yet.",
-        "optionB": "I like to challenge traditions when I see a direct benefit to making an adjustment or improvement."
-    },
-    {
-        "id": 60,
-        "optionA": "Given a choice, I’d prefer a brainstorming session that might unlock something entirely new over a straightforward workshop.",
-        "optionB": "Given a choice, I’d prefer a workshop that results in a tangible product or plan at the end over free-flow brainstorming."
-    },
-    {
-        "id": 61,
-        "optionA": "If I see an interesting angle, I’ll explore it even if it doesn’t directly solve a pressing issue.",
-        "optionB": "If I see an immediate issue, I’ll address that first, sometimes ignoring longer-term possibilities."
-    },
-    {
-        "id": 62,
-        "optionA": "When I pitch ideas, I might not worry if they seem far-fetched; the point is to spark something new.",
-        "optionB": "When I pitch ideas, I like them to be close enough to feasible so people don’t get lost in speculation."
-    },
-    {
-        "id": 63,
-        "optionA": "I find it satisfying to mentally reorder or rearrange complex concepts to see new solutions emerge.",
-        "optionB": "I find it satisfying to physically rearrange or reorganize things to see immediate improvements."
-    },
-    {
-        "id": 64,
-        "optionA": "If there’s a system in place, I enjoy figuring out how it works beneath the surface—even if it’s intricate.",
-        "optionB": "If there’s a system in place, I like trying small modifications to see real differences in how it runs."
-    },
-    {
-        "id": 65,
-        "optionA": "I might turn a simple request into a bigger concept to see if there’s a more wide-reaching application.",
-        "optionB": "I might turn a simple request around quickly, focusing on exactly what needs to be done in that moment."
-    },
-    {
-        "id": 66,
-        "optionA": "Some people say I pose too many questions or explore too many tangents during discussions.",
-        "optionB": "Some people say I push forward too fast, not slowing down to consider alternate viewpoints."
-    },
-    {
-        "id": 67,
-        "optionA": "Reading about unusual inventions, even if they’re not practical, can really intrigue me.",
-        "optionB": "Reading about proven applications or case studies can really motivate me to replicate the success."
-    },
-    {
-        "id": 68,
-        "optionA": "I’m more at ease in an open-ended conversation that can wander a bit.",
-        "optionB": "I’m more at ease in a focused conversation that stays close to the topic we need to address."
-    },
-    {
-        "id": 69,
-        "optionA": "I like to question if a certain process could be broadened or combined with another process for new results.",
-        "optionB": "I like to identify weaknesses or inefficiencies in a process and fix them so it runs better."
-    },
-    {
-        "id": 70,
-        "optionA": "When teaching someone, I might offer various angles or thought experiments, even if they’re more philosophical.",
-        "optionB": "When teaching someone, I might focus on a simplified approach that quickly builds confidence or skill."
-    },
-    {
-        "id": 71,
-        "optionA": "During group discussions, I might jump around from one concept to another, connecting dots.",
-        "optionB": "During group discussions, I might propose direct action steps that keep things moving forward."
-    },
-    {
-        "id": 72,
-        "optionA": "I get excited by a solution that feels fresh or original, even if it’s slightly complicated.",
-        "optionB": "I get excited by a solution that’s easy to implement and delivers a noticeable impact."
-    },
-    {
-        "id": 73,
-        "optionA": "I’d rather explore multiple angles at once, risking some confusion but allowing creative sparks to fly.",
-        "optionB": "I’d rather proceed methodically, focusing on one angle at a time to avoid getting scattered."
-    },
-    {
-        "id": 74,
-        "optionA": "If someone asks a simple ‘Yes/No’ question, I might respond by offering additional context or considerations.",
-        "optionB": "If someone asks a simple ‘Yes/No’ question, I answer directly, and then see if they need more info."
-    },
-    {
-        "id": 75,
-        "optionA": "I’m drawn to environments that let me experiment mentally, even if it’s purely exploratory.",
-        "optionB": "I’m drawn to environments that demand quick thinking or adaptability, where I see immediate results."
-    },
-    {
-        "id": 76,
-        "optionA": "If given too many constraints, I might push back, wanting freedom to explore unconventional solutions.",
-        "optionB": "If given too many constraints, I find ways around them, but usually still aim to deliver a working outcome fast."
-    },
-    {
-        "id": 77,
-        "optionA": "I gravitate toward tasks that expand my perspective in new, unexpected ways.",
-        "optionB": "I gravitate toward tasks that let me jump in and prove what can be done on the spot."
-    },
-    {
-        "id": 78,
-        "optionA": "I sometimes focus on intriguing possibilities others haven’t considered, at the risk of going off track.",
-        "optionB": "I sometimes drive the team toward practical tasks others haven’t tackled yet, at the risk of seeming pushy."
-    },
-    {
-        "id": 79,
-        "optionA": "If I think of a big idea, I’m happy to refine it through a lively back-and-forth discussion, even if it’s prolonged.",
-        "optionB": "If I think of a big idea, I’m tempted to start testing parts of it right away, even if it’s not fully formed yet."
-    },
-    {
-        "id": 80,
-        "optionA": "I’m comfortable envisioning directions that might change how we approach an entire field or topic.",
-        "optionB": "I’m comfortable zeroing in on achievable moves that give an immediate advantage or improvement."
-    },
-    {
-        "id": 81,
-        "optionA": "When I’m introduced to a new subject, I often keep asking follow-up questions until I grasp every angle.",
-        "optionB": "When I’m introduced to a new subject, I prefer a direct explanation so I can move forward right away."
-    },
-    {
-        "id": 82,
-        "optionA": "In group discussions, I enjoy pointing out unexpected parallels that link seemingly separate ideas.",
-        "optionB": "In group discussions, I tend to highlight specific issues or details to keep everyone on track."
-    },
-    {
-        "id": 83,
-        "optionA": "If someone proposes a routine way of doing things, I might wonder if there’s a more imaginative alternative.",
-        "optionB": "If someone proposes a routine way of doing things, I generally see if it can be implemented effectively right now."
-    },
-    {
-        "id": 84,
-        "optionA": "I sometimes think aloud, walking through multiple ‘if-then’ scenarios before picking one.",
-        "optionB": "I sometimes think aloud about the immediate pros and cons, then jump right to a choice."
-    },
-    {
-        "id": 85,
-        "optionA": "If someone shares a new concept, I might casually explore tangential topics that come to mind.",
-        "optionB": "If someone shares a new concept, I look for ways to apply or test it in a straightforward setting."
-    },
-    {
-        "id": 86,
-        "optionA": "I typically find it satisfying to step back and re-examine a big situation if there’s any doubt.",
-        "optionB": "I typically find it satisfying to resolve any doubt by taking some immediate action to see what happens."
-    },
-    {
-        "id": 87,
-        "optionA": "During problem-solving, I might reference past experiences but also consider completely new angles.",
-        "optionB": "During problem-solving, I usually rely on clear precedents or what has reliably worked in similar contexts."
-    },
-    {
-        "id": 88,
-        "optionA": "If a process seems dull, I might propose a more open-ended or adventurous approach—even if it complicates things.",
-        "optionB": "If a process seems dull, I might suggest a quick fix or practical shortcut to keep things moving efficiently."
-    },
-    {
-        "id": 89,
-        "optionA": "When reading about an issue, I sometimes imagine related scenarios to understand the broader implications.",
-        "optionB": "When reading about an issue, I like to see tangible examples or direct outcomes to judge how serious it is."
-    },
-    {
-        "id": 90,
-        "optionA": "I’d rather talk through multiple possibilities in detail before finalizing the next step.",
-        "optionB": "I’d rather choose one workable approach quickly and adjust if needed down the line."
-    },
-    {
-        "id": 91,
-        "optionA": "I enjoy conversations that stretch the usual boundaries, even if they drift away from the main topic.",
-        "optionB": "I enjoy conversations that efficiently sort out what needs to be done, even if they stay quite focused."
-    },
-    {
-        "id": 92,
-        "optionA": "I might take a familiar idea and expand it in unexpected directions, just to see what potential it has.",
-        "optionB": "I might take a familiar idea and refine it so it’s easier to implement or replicate."
-    },
-    {
-        "id": 93,
-        "optionA": "When confronted with conflicting opinions, I like to see if they can merge into a newer perspective.",
-        "optionB": "When confronted with conflicting opinions, I usually identify which is more practical or likely to work."
-    },
-    {
-        "id": 94,
-        "optionA": "Sometimes, I offer proposals that are a bit unconventional but could lead to unique outcomes.",
-        "optionB": "Sometimes, I offer proposals that address the most pressing issue first, even if they’re not unusual."
-    },
-    {
-        "id": 95,
-        "optionA": "I enjoy adding creative flair to tasks, even if it slightly delays completion.",
-        "optionB": "I prefer to finish tasks efficiently, even if it means sticking to a straightforward method."
-    },
-    {
-        "id": 96,
-        "optionA": "If something’s unclear, I like to question underlying assumptions rather than accepting them.",
-        "optionB": "If something’s unclear, I lean on evidence or real examples to resolve my confusion."
-    },
-    {
-        "id": 97,
-        "optionA": "People describe me as someone who occasionally jumps topics or weaves in diverse references during a chat.",
-        "optionB": "People describe me as someone who steers a chat toward identifying concrete takeaways or tasks."
-    },
-    {
-        "id": 98,
-        "optionA": "I enjoy exploring an issue from multiple perspectives, letting each viewpoint spark new ideas.",
-        "optionB": "I enjoy addressing one perspective at a time, ensuring each one is dealt with effectively."
-    },
-    {
-        "id": 99,
-        "optionA": "If someone brings up a fresh concept, I might link it back to bigger trends or larger contexts.",
-        "optionB": "If someone brings up a fresh concept, I might look for a straightforward use case to confirm its value."
-    },
-    {
-        "id": 100,
-        "optionA": "It motivates me to think that a certain approach could unlock future developments nobody’s tried yet.",
-        "optionB": "It motivates me to think that a certain approach can be put into practice right away with clear outcomes."
+        "description": "Co-workers note you either keep drafting new conceptual expansions or diving into immediate hands-on attempts, neglecting consistent record-keeping or incremental updates.",
+        "optionA": "You recognize you love exploring angles intellectually, forgetting to document or confirm them physically until it’s urgent.",
+        "optionB": "You recognize you prefer to act as soon as you see an opening, rarely stopping to ensure a stable record or repeated procedure.",
+        "optionC": "You decide to schedule recurring check-ins so every idea or action is accompanied by a small update or note, bridging the gap.",
+        "explanation": "ENTP can let the tangible side slip (shadow Se) by favoring endless expansions. ESTP can let methodical continuity slip (shadow Si) by favoring immediate tasks. Option C aims for stable updates that help both types maintain a better process.",
+        "functionsCompared": [
+            "Shadow Se",
+            "Shadow Si"
+        ]
     }
 ]
