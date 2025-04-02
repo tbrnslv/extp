@@ -1,0 +1,502 @@
+[
+    {
+        "id": 1,
+        "optionA": "When learning something new, I tend to collect different angles or viewpoints before I feel comfortable proceeding.",
+        "optionB": "When learning something new, I often prefer to see how it works in a straightforward example first."
+    },
+    {
+        "id": 2,
+        "optionA": "If I’m hosting a gathering, I usually have multiple ideas in mind and might switch plans spontaneously if something more interesting comes up.",
+        "optionB": "If I’m hosting a gathering, I settle on a clear plan so things can happen smoothly, even if it’s short notice."
+    },
+    {
+        "id": 3,
+        "optionA": "I sometimes find it energizing to ask questions that push people beyond typical assumptions, even if it feels a bit provocative.",
+        "optionB": "I sometimes find it energizing to test people’s limits in a real situation, seeing how they respond under pressure."
+    },
+    {
+        "id": 4,
+        "optionA": "When I pick a new hobby, the unique or unusual aspect of it is more appealing than how easily I can just start doing it.",
+        "optionB": "When I pick a new hobby, I like something I can dive into right away, without too much fuss."
+    },
+    {
+        "id": 5,
+        "optionA": "If I join a project, I often float multiple possibilities or hypothetical improvements—even if they might not be used immediately.",
+        "optionB": "If I join a project, I like working with whatever is already at hand and making quick progress on immediate goals."
+    },
+    {
+        "id": 6,
+        "optionA": "Sometimes, I get a bit bored if I don’t have a chance to explore interesting twists or pivot the discussion in new directions.",
+        "optionB": "Sometimes, I get a bit bored if we spend too long talking without actually testing or doing something."
+    },
+    {
+        "id": 7,
+        "optionA": "I prefer to gather insights from various fields or references before forming a conclusion.",
+        "optionB": "I prefer to jump into a smaller scope and refine my approach as I go."
+    },
+    {
+        "id": 8,
+        "optionA": "In conversation, I might toss out an unexpected idea, even if it feels far from the current topic.",
+        "optionB": "In conversation, I often bring examples from real incidents I’ve seen or been part of."
+    },
+    {
+        "id": 9,
+        "optionA": "When something puzzles me, I’m inclined to dissect it from multiple perspectives until it clicks in my mind.",
+        "optionB": "When something puzzles me, I prefer to try out a solution method to see if it clears things up."
+    },
+    {
+        "id": 10,
+        "optionA": "I can switch interests rapidly if a fresh idea catches my attention—even if it’s unrelated.",
+        "optionB": "I can switch strategies rapidly if a direct opportunity or constraint shows up—even if it disrupts the plan."
+    },
+    {
+        "id": 11,
+        "optionA": "I tend to appreciate clever, unconventional approaches—even if they’re a bit impractical.",
+        "optionB": "I tend to appreciate straightforward, tried-and-true approaches—even if they lack some flair."
+    },
+    {
+        "id": 12,
+        "optionA": "When I plan a trip or vacation, I love exploring a wide array of possible activities, even if it’s not all feasible.",
+        "optionB": "When I plan a trip or vacation, I prefer locking in the key details and adapting once I’m on the ground."
+    },
+    {
+        "id": 13,
+        "optionA": "If I encounter an obstacle, I often pause to rethink the bigger picture or reframe the situation.",
+        "optionB": "If I encounter an obstacle, I usually look for a direct workaround and keep going."
+    },
+    {
+        "id": 14,
+        "optionA": "I’m comfortable theorizing possibilities that might sound unconventional or untested.",
+        "optionB": "I’m comfortable dealing with challenges that pop up in the moment, making quick calls to move ahead."
+    },
+    {
+        "id": 15,
+        "optionA": "It’s fun for me to brainstorm radically different angles, even if most of them won’t pan out.",
+        "optionB": "It’s fun for me to troubleshoot things in real time and see the immediate difference it makes."
+    },
+    {
+        "id": 16,
+        "optionA": "When I see a new trend or tool, I’m often curious how it might evolve or connect to other developments.",
+        "optionB": "When I see a new trend or tool, I like to see if it solves any immediate need or if I can implement it right away."
+    },
+    {
+        "id": 17,
+        "optionA": "I sometimes propose solutions that involve reimagining entire systems or processes.",
+        "optionB": "I sometimes propose solutions that adapt the current system with minimal friction."
+    },
+    {
+        "id": 18,
+        "optionA": "It fascinates me to understand underlying principles, even if they don’t have an obvious day-to-day use.",
+        "optionB": "It fascinates me to discover how certain things can be used effectively in everyday settings."
+    },
+    {
+        "id": 19,
+        "optionA": "I get restless if a conversation sticks to commonplace ideas too long; I like exploring uncharted territory.",
+        "optionB": "I get restless if a conversation is all speculation; I want to see something actionable emerge."
+    },
+    {
+        "id": 20,
+        "optionA": "Even if it’s not guaranteed, I’m drawn to discussions about what might be possible down the line.",
+        "optionB": "Even if it’s modest, I like having a visible payoff to confirm we’re on the right track."
+    },
+    {
+        "id": 21,
+        "optionA": "When I give feedback, I might spin off multiple ways a person could improve or expand their approach.",
+        "optionB": "When I give feedback, I tend to highlight what can be changed or fixed right now."
+    },
+    {
+        "id": 22,
+        "optionA": "I sometimes dive into topics purely because they spark my curiosity, regardless of immediate usefulness.",
+        "optionB": "I sometimes dive into topics if I see a clear benefit or application in my current situation."
+    },
+    {
+        "id": 23,
+        "optionA": "I enjoy a good debate that tests assumptions—even if it doesn’t lead to a final conclusion.",
+        "optionB": "I enjoy a good debate if it helps us reach a decision or settle a practical dispute."
+    },
+    {
+        "id": 24,
+        "optionA": "It’s typical for me to juggle multiple ideas at once, letting them develop in parallel.",
+        "optionB": "It’s typical for me to handle each issue as it comes, moving through them in a more sequential manner."
+    },
+    {
+        "id": 25,
+        "optionA": "I sometimes propose changes just to see if something more interesting might result.",
+        "optionB": "I usually propose changes if I see an immediate reason to do so—like fixing a specific concern."
+    },
+    {
+        "id": 26,
+        "optionA": "When learning about an unfamiliar subject, I might explore tangentially related topics to broaden my perspective.",
+        "optionB": "When learning about an unfamiliar subject, I focus on the core information I need to accomplish something with it."
+    },
+    {
+        "id": 27,
+        "optionA": "In groups, I’m often the one tossing out a less obvious route or alternative approach.",
+        "optionB": "In groups, I’m often the one who cuts to the chase, checking if we can address a certain point promptly."
+    },
+    {
+        "id": 28,
+        "optionA": "I like the thrill of conceptual breakthroughs—when someone mentions a novel angle I hadn’t considered.",
+        "optionB": "I like the thrill of seeing direct progress—when something actually gets fixed or improved in a tangible way."
+    },
+    {
+        "id": 29,
+        "optionA": "I find it natural to wonder about how existing methods could be overhauled for something entirely new.",
+        "optionB": "I find it natural to try small tweaks to existing methods rather than completely reinvent them."
+    },
+    {
+        "id": 30,
+        "optionA": "I can handle uncertainty quite well, as I see it as room to explore untapped directions.",
+        "optionB": "I can handle uncertainty by taking immediate actions or tests that narrow down the unknowns quickly."
+    },
+    {
+        "id": 31,
+        "optionA": "I like generating fresh ideas even if they don’t match typical expectations.",
+        "optionB": "I like seizing opportunities even if the plan wasn’t fully formed beforehand."
+    },
+    {
+        "id": 32,
+        "optionA": "I enjoy drafting a detailed outline or roadmap that might evolve further as new information arises.",
+        "optionB": "I enjoy tackling a challenge directly and refining my strategy as I face real hurdles."
+    },
+    {
+        "id": 33,
+        "optionA": "I’m sometimes drawn to subtle or complex puzzles that require a good deal of mental exploration.",
+        "optionB": "I’m sometimes drawn to active or fast-moving tasks that let me see immediate outcomes."
+    },
+    {
+        "id": 34,
+        "optionA": "When giving instructions, I might provide an overview, plus alternate ways to achieve the same result.",
+        "optionB": "When giving instructions, I usually offer the most direct path to completion, step by step."
+    },
+    {
+        "id": 35,
+        "optionA": "If a standard practice feels outdated, I’m the one who might question its very foundations.",
+        "optionB": "If a standard practice feels outdated, I’m the one who tries a new spin on it to see if it still works well enough."
+    },
+    {
+        "id": 36,
+        "optionA": "I can see potential in ideas that others might dismiss as too unconventional or ‘out there.’",
+        "optionB": "I can see angles in real events or data that others might miss because they’re too focused on theory."
+    },
+    {
+        "id": 37,
+        "optionA": "I sometimes push the conversation into territory where few have gone, just to see what might surface.",
+        "optionB": "I sometimes direct the conversation toward concrete next steps so we can walk away with a plan."
+    },
+    {
+        "id": 38,
+        "optionA": "I’m more enthused by discovering new frameworks than refining old ones.",
+        "optionB": "I’m more enthused by optimizing current methods than brainstorming untested options."
+    },
+    {
+        "id": 39,
+        "optionA": "I enjoy a lively dialogue that questions fundamental assumptions, even if it’s a bit abstract.",
+        "optionB": "I enjoy a lively dialogue that clarifies specifics, even if it’s less about exploring big hypotheticals."
+    },
+    {
+        "id": 40,
+        "optionA": "If I watch a documentary, I might be drawn to something highly explorative or speculative in nature.",
+        "optionB": "If I watch a documentary, I might be drawn to something that shows tangible events or hands-on experiences."
+    },
+    {
+        "id": 41,
+        "optionA": "When planning a project, I often start by brainstorming multiple outcomes before choosing my path.",
+        "optionB": "When planning a project, I often start by testing one approach to see if it’s viable, then adjust."
+    },
+    {
+        "id": 42,
+        "optionA": "I can easily connect topics that seem unrelated, finding surprising links between them.",
+        "optionB": "I can easily notice immediate factors that matter and focus on dealing with them directly."
+    },
+    {
+        "id": 43,
+        "optionA": "I don’t mind pivoting drastically if a conversation or plan sparks a more exciting possibility.",
+        "optionB": "I don’t mind switching tactics if the current situation calls for it, especially under tight time pressure."
+    },
+    {
+        "id": 44,
+        "optionA": "I like the challenge of imagining a new system from scratch rather than tweaking an existing design.",
+        "optionB": "I like the challenge of improving a system by finding little upgrades that make a big difference."
+    },
+    {
+        "id": 45,
+        "optionA": "Sometimes I just want to see how wild or inventive an idea can be, even if it’s a long shot.",
+        "optionB": "Sometimes I just want to find a fast fix or hack that gets me closer to where I want to be."
+    },
+    {
+        "id": 46,
+        "optionA": "If I disagree with a process, I might propose a bold alternative that challenges typical thinking.",
+        "optionB": "If I disagree with a process, I might propose a direct improvement that most can agree on quickly."
+    },
+    {
+        "id": 47,
+        "optionA": "I frequently look at broader patterns or trends, getting a sense of how things might shift or connect.",
+        "optionB": "I frequently spot immediate factors or clues in my surroundings, using them to my advantage."
+    },
+    {
+        "id": 48,
+        "optionA": "I like to keep possibilities open, exploring multiple directions in parallel if possible.",
+        "optionB": "I like to address one major direction and make progress, even if that means locking it in for a while."
+    },
+    {
+        "id": 49,
+        "optionA": "I feel energized by conversations that revolve around big-picture implications or new frontiers.",
+        "optionB": "I feel energized by scenarios where quick decisions or immediate problem-solving is key."
+    },
+    {
+        "id": 50,
+        "optionA": "I sometimes pitch unorthodox ideas just to see if it sparks a better conversation or a fresh insight.",
+        "optionB": "I sometimes jump into hands-on experiments just to see if something works right away."
+    },
+    {
+        "id": 51,
+        "optionA": "If a routine approach is working okay, I still might ask, ‘Can we take this further?’",
+        "optionB": "If a routine approach is working okay, I’d typically keep it until we see evidence it’s not enough."
+    },
+    {
+        "id": 52,
+        "optionA": "I gravitate toward creative brainstorming, even if it means exploring numerous tangents.",
+        "optionB": "I gravitate toward a straightforward discussion that moves us closer to a plan of action."
+    },
+    {
+        "id": 53,
+        "optionA": "I sometimes get so engrossed in potential angles, I forget to finalize decisions promptly.",
+        "optionB": "I sometimes move so quickly on decisions, I might skip deeper exploration of alternatives."
+    },
+    {
+        "id": 54,
+        "optionA": "I’m drawn to exploring how different theories or approaches might interrelate in unexpected ways.",
+        "optionB": "I’m drawn to seeing how quickly I can get a particular method to work once I commit to it."
+    },
+    {
+        "id": 55,
+        "optionA": "If I encounter an intriguing concept, I dive in just for the mental stimulation it provides.",
+        "optionB": "If I encounter an intriguing method, I test it out right away to see if it’s effective."
+    },
+    {
+        "id": 56,
+        "optionA": "In a strategy game, I’m the type to plan for multiple contingencies and shift rapidly if a new angle seems promising.",
+        "optionB": "In a strategy game, I’m the type to look for immediate exploits or direct tactics to gain an upper hand."
+    },
+    {
+        "id": 57,
+        "optionA": "When reading about a subject, I like to explore tangential topics that might be loosely related.",
+        "optionB": "When reading about a subject, I prefer to hone in on the specific details or data most relevant to my goal."
+    },
+    {
+        "id": 58,
+        "optionA": "If a debate arises, I enjoy pushing the boundaries of the argument, even if it feels philosophical.",
+        "optionB": "If a debate arises, I look for points that can be clearly demonstrated or proven right away."
+    },
+    {
+        "id": 59,
+        "optionA": "I like to question traditions or norms to see if there’s a fresh way nobody has attempted yet.",
+        "optionB": "I like to challenge traditions when I see a direct benefit to making an adjustment or improvement."
+    },
+    {
+        "id": 60,
+        "optionA": "Given a choice, I’d prefer a brainstorming session that might unlock something entirely new over a straightforward workshop.",
+        "optionB": "Given a choice, I’d prefer a workshop that results in a tangible product or plan at the end over free-flow brainstorming."
+    },
+    {
+        "id": 61,
+        "optionA": "If I see an interesting angle, I’ll explore it even if it doesn’t directly solve a pressing issue.",
+        "optionB": "If I see an immediate issue, I’ll address that first, sometimes ignoring longer-term possibilities."
+    },
+    {
+        "id": 62,
+        "optionA": "When I pitch ideas, I might not worry if they seem far-fetched; the point is to spark something new.",
+        "optionB": "When I pitch ideas, I like them to be close enough to feasible so people don’t get lost in speculation."
+    },
+    {
+        "id": 63,
+        "optionA": "I find it satisfying to mentally reorder or rearrange complex concepts to see new solutions emerge.",
+        "optionB": "I find it satisfying to physically rearrange or reorganize things to see immediate improvements."
+    },
+    {
+        "id": 64,
+        "optionA": "If there’s a system in place, I enjoy figuring out how it works beneath the surface—even if it’s intricate.",
+        "optionB": "If there’s a system in place, I like trying small modifications to see real differences in how it runs."
+    },
+    {
+        "id": 65,
+        "optionA": "I might turn a simple request into a bigger concept to see if there’s a more wide-reaching application.",
+        "optionB": "I might turn a simple request around quickly, focusing on exactly what needs to be done in that moment."
+    },
+    {
+        "id": 66,
+        "optionA": "Some people say I pose too many questions or explore too many tangents during discussions.",
+        "optionB": "Some people say I push forward too fast, not slowing down to consider alternate viewpoints."
+    },
+    {
+        "id": 67,
+        "optionA": "Reading about unusual inventions, even if they’re not practical, can really intrigue me.",
+        "optionB": "Reading about proven applications or case studies can really motivate me to replicate the success."
+    },
+    {
+        "id": 68,
+        "optionA": "I’m more at ease in an open-ended conversation that can wander a bit.",
+        "optionB": "I’m more at ease in a focused conversation that stays close to the topic we need to address."
+    },
+    {
+        "id": 69,
+        "optionA": "I like to question if a certain process could be broadened or combined with another process for new results.",
+        "optionB": "I like to identify weaknesses or inefficiencies in a process and fix them so it runs better."
+    },
+    {
+        "id": 70,
+        "optionA": "When teaching someone, I might offer various angles or thought experiments, even if they’re more philosophical.",
+        "optionB": "When teaching someone, I might focus on a simplified approach that quickly builds confidence or skill."
+    },
+    {
+        "id": 71,
+        "optionA": "During group discussions, I might jump around from one concept to another, connecting dots.",
+        "optionB": "During group discussions, I might propose direct action steps that keep things moving forward."
+    },
+    {
+        "id": 72,
+        "optionA": "I get excited by a solution that feels fresh or original, even if it’s slightly complicated.",
+        "optionB": "I get excited by a solution that’s easy to implement and delivers a noticeable impact."
+    },
+    {
+        "id": 73,
+        "optionA": "I’d rather explore multiple angles at once, risking some confusion but allowing creative sparks to fly.",
+        "optionB": "I’d rather proceed methodically, focusing on one angle at a time to avoid getting scattered."
+    },
+    {
+        "id": 74,
+        "optionA": "If someone asks a simple ‘Yes/No’ question, I might respond by offering additional context or considerations.",
+        "optionB": "If someone asks a simple ‘Yes/No’ question, I answer directly, and then see if they need more info."
+    },
+    {
+        "id": 75,
+        "optionA": "I’m drawn to environments that let me experiment mentally, even if it’s purely exploratory.",
+        "optionB": "I’m drawn to environments that demand quick thinking or adaptability, where I see immediate results."
+    },
+    {
+        "id": 76,
+        "optionA": "If given too many constraints, I might push back, wanting freedom to explore unconventional solutions.",
+        "optionB": "If given too many constraints, I find ways around them, but usually still aim to deliver a working outcome fast."
+    },
+    {
+        "id": 77,
+        "optionA": "I gravitate toward tasks that expand my perspective in new, unexpected ways.",
+        "optionB": "I gravitate toward tasks that let me jump in and prove what can be done on the spot."
+    },
+    {
+        "id": 78,
+        "optionA": "I sometimes focus on intriguing possibilities others haven’t considered, at the risk of going off track.",
+        "optionB": "I sometimes drive the team toward practical tasks others haven’t tackled yet, at the risk of seeming pushy."
+    },
+    {
+        "id": 79,
+        "optionA": "If I think of a big idea, I’m happy to refine it through a lively back-and-forth discussion, even if it’s prolonged.",
+        "optionB": "If I think of a big idea, I’m tempted to start testing parts of it right away, even if it’s not fully formed yet."
+    },
+    {
+        "id": 80,
+        "optionA": "I’m comfortable envisioning directions that might change how we approach an entire field or topic.",
+        "optionB": "I’m comfortable zeroing in on achievable moves that give an immediate advantage or improvement."
+    },
+    {
+        "id": 81,
+        "optionA": "When I’m introduced to a new subject, I often keep asking follow-up questions until I grasp every angle.",
+        "optionB": "When I’m introduced to a new subject, I prefer a direct explanation so I can move forward right away."
+    },
+    {
+        "id": 82,
+        "optionA": "In group discussions, I enjoy pointing out unexpected parallels that link seemingly separate ideas.",
+        "optionB": "In group discussions, I tend to highlight specific issues or details to keep everyone on track."
+    },
+    {
+        "id": 83,
+        "optionA": "If someone proposes a routine way of doing things, I might wonder if there’s a more imaginative alternative.",
+        "optionB": "If someone proposes a routine way of doing things, I generally see if it can be implemented effectively right now."
+    },
+    {
+        "id": 84,
+        "optionA": "I sometimes think aloud, walking through multiple ‘if-then’ scenarios before picking one.",
+        "optionB": "I sometimes think aloud about the immediate pros and cons, then jump right to a choice."
+    },
+    {
+        "id": 85,
+        "optionA": "If someone shares a new concept, I might casually explore tangential topics that come to mind.",
+        "optionB": "If someone shares a new concept, I look for ways to apply or test it in a straightforward setting."
+    },
+    {
+        "id": 86,
+        "optionA": "I typically find it satisfying to step back and re-examine a big situation if there’s any doubt.",
+        "optionB": "I typically find it satisfying to resolve any doubt by taking some immediate action to see what happens."
+    },
+    {
+        "id": 87,
+        "optionA": "During problem-solving, I might reference past experiences but also consider completely new angles.",
+        "optionB": "During problem-solving, I usually rely on clear precedents or what has reliably worked in similar contexts."
+    },
+    {
+        "id": 88,
+        "optionA": "If a process seems dull, I might propose a more open-ended or adventurous approach—even if it complicates things.",
+        "optionB": "If a process seems dull, I might suggest a quick fix or practical shortcut to keep things moving efficiently."
+    },
+    {
+        "id": 89,
+        "optionA": "When reading about an issue, I sometimes imagine related scenarios to understand the broader implications.",
+        "optionB": "When reading about an issue, I like to see tangible examples or direct outcomes to judge how serious it is."
+    },
+    {
+        "id": 90,
+        "optionA": "I’d rather talk through multiple possibilities in detail before finalizing the next step.",
+        "optionB": "I’d rather choose one workable approach quickly and adjust if needed down the line."
+    },
+    {
+        "id": 91,
+        "optionA": "I enjoy conversations that stretch the usual boundaries, even if they drift away from the main topic.",
+        "optionB": "I enjoy conversations that efficiently sort out what needs to be done, even if they stay quite focused."
+    },
+    {
+        "id": 92,
+        "optionA": "I might take a familiar idea and expand it in unexpected directions, just to see what potential it has.",
+        "optionB": "I might take a familiar idea and refine it so it’s easier to implement or replicate."
+    },
+    {
+        "id": 93,
+        "optionA": "When confronted with conflicting opinions, I like to see if they can merge into a newer perspective.",
+        "optionB": "When confronted with conflicting opinions, I usually identify which is more practical or likely to work."
+    },
+    {
+        "id": 94,
+        "optionA": "Sometimes, I offer proposals that are a bit unconventional but could lead to unique outcomes.",
+        "optionB": "Sometimes, I offer proposals that address the most pressing issue first, even if they’re not unusual."
+    },
+    {
+        "id": 95,
+        "optionA": "I enjoy adding creative flair to tasks, even if it slightly delays completion.",
+        "optionB": "I prefer to finish tasks efficiently, even if it means sticking to a straightforward method."
+    },
+    {
+        "id": 96,
+        "optionA": "If something’s unclear, I like to question underlying assumptions rather than accepting them.",
+        "optionB": "If something’s unclear, I lean on evidence or real examples to resolve my confusion."
+    },
+    {
+        "id": 97,
+        "optionA": "People describe me as someone who occasionally jumps topics or weaves in diverse references during a chat.",
+        "optionB": "People describe me as someone who steers a chat toward identifying concrete takeaways or tasks."
+    },
+    {
+        "id": 98,
+        "optionA": "I enjoy exploring an issue from multiple perspectives, letting each viewpoint spark new ideas.",
+        "optionB": "I enjoy addressing one perspective at a time, ensuring each one is dealt with effectively."
+    },
+    {
+        "id": 99,
+        "optionA": "If someone brings up a fresh concept, I might link it back to bigger trends or larger contexts.",
+        "optionB": "If someone brings up a fresh concept, I might look for a straightforward use case to confirm its value."
+    },
+    {
+        "id": 100,
+        "optionA": "It motivates me to think that a certain approach could unlock future developments nobody’s tried yet.",
+        "optionB": "It motivates me to think that a certain approach can be put into practice right away with clear outcomes."
+    }
+]
